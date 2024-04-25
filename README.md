@@ -9,7 +9,7 @@ Currently Supported Elements:
 - Infobox
 - Tables*
 
-*Advanced tables with subcolums aren't supported as afaik markdown tables don't support this feature.
+*Advanced tables with subcolumns aren't supported as afaik markdown tables don't support this feature.
 
 Planned Supported Elements:
 - Figures
