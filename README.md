@@ -7,9 +7,11 @@ Current formats:
 
 Currently Supported Elements:
 - Infobox
+- Tables*
+
+*Advanced tables with subcolums aren't supported as afaik markdown tables don't support this feature.
 
 Planned Supported Elements:
-- Tables
 - Figures
 
 Once installed, a tools button will appear in the bottom right on any wikipedia page.
