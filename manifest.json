@@ -1,11 +1,11 @@
 {
     "manifest_version": 2,
-    "name": "Hello Extensions",
-    "description": "Base Level Extension",
+    "name": "Wiki-exporter",
+    "description": "Allows you to export wikipedia elements in Markdown or HTML formats",
     "version": "1.0",
     "offline_enabled": true,
     "icons": {
-        "32": "wikipedia.png"
+        "32": "icon.png"
     },
     "content_scripts": [{
         "matches": ["*://*.wikipedia.org/wiki/*"],
