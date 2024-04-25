@@ -32,4 +32,6 @@ Please feel free to donate if you found this extension useful.
 <br>
 <br>
 
+Feel free to suggest additional features/elements to support via Github Issues.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8U5GAJ)
