@@ -18,8 +18,10 @@ simply select the element on the page you wish to copy.
 
 ## Installation
 1. Clone or download and unzip this repository.
+
 Make sure you save it to somewhere save - the browser won't copy the extension so if the folder is deleted, the extension will break or disappear.
-2. Go to chrome://extensions
+
+2. Go to `chrome://extensions` (in the address bar)
 3. Enable Developer Mode.
 4. Click 'Load Unpacked'
 5. Select the cloned/unzipped extension folder.
