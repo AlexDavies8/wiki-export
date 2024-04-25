@@ -23,6 +23,9 @@ Make sure you save it to somewhere save - the browser won't copy the extension s
 3. Enable Developer Mode.
 4. Click 'Load Unpacked'
 5. Select the cloned/unzipped extension folder.
+<br>
+Please feel free to donate if you found this extension useful.  
+<br>
+<br>
 
-Please feel free to donate if you found this extension useful.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8U5GAJ)
