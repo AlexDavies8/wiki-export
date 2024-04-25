@@ -6,13 +6,15 @@ Current formats:
 - HTML
 
 Currently Supported Elements:
-- Infobox
-- Tables*
-
-*Advanced tables with subcolumns aren't supported as afaik markdown tables don't support this feature.
-
-Planned Supported Elements:
+- Infoboxes
+- Tables
 - Figures
+
+Limitations:
+- Tables with subcolumns/subrows aren't supported by markdown tables, so aren't supported for markdown export
+- Figures with multiple images are classified differently so aren't currently supported
+- Complex layouts inside of the infobox such as collapsable tables have issues
+- Slim Inline Styles can be broken by external CSS 
 
 Feel free to suggest additional features/elements to support via Github Issues.
 
