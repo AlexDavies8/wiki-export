@@ -14,6 +14,8 @@ Currently Supported Elements:
 Planned Supported Elements:
 - Figures
 
+Feel free to suggest additional features/elements to support via Github Issues.
+
 Once installed, a tools button will appear in the bottom right on any wikipedia page.
 This will allow you to change settings or export an element. Once you've clicked a format,
 simply select the element on the page you wish to copy.
@@ -28,10 +30,7 @@ Make sure you save it to somewhere save - the browser won't copy the extension s
 4. Click 'Load Unpacked'
 5. Select the cloned/unzipped extension folder.
 <br>
-Please feel free to donate if you found this extension useful.  
-<br>
-<br>
 
-Feel free to suggest additional features/elements to support via Github Issues.
+Please feel free to donate if you found this extension useful.  
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8U5GAJ)
